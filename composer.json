@@ -1,0 +1,23 @@
+{
+    "name": "skrip42/color",
+    "description": "color utils",
+    "keywords": ["colorutils"],
+    "homepage": "https://github.com/Skrip42/Color",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "skrip",
+            "email": "skrip42@gmail.com"
+        }
+    ],
+    "version": "v1.0.0",
+    "require": {
+        "php": ">=7.1"
+    },
+    "minimum-stability":"dev",
+    "autoload": {
+        "psr-4": {
+            "Skrip42\\Color\\":""
+        }
+    }
+}
